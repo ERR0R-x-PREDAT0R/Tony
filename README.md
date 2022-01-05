@@ -1,11 +1,4 @@
-# Tony Ser Wa Bot
 
-<div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="200" height="200"/>
-
-<p align="center"> 
-  <a href="https://wa.me/919383491460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
 
 ## <!-- Typing SVG -->
 <p align="center">
@@ -17,7 +10,32 @@
     </a>
 </p>
 
+#❝Tony Ser Wa Bot❞
 
+</div>
+
+<div align="center">
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="Tony-Ser" src="https://img.shields.io/badge/-Tony%20Ser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/ERR0R-x-PREDAT0R"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALINSHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
+</p>
+  <p align="center"> 
+  <a href="https://wa.me/919383491460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+</div>
+<p align="center">
+Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
+    <br>
+       | © |
+        Reserved |
+    <br> 
+</p>
+
+
+----
 
 ----------
 
