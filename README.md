@@ -66,7 +66,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
-</div>
+
 ## `CHANGE DYNO`
 
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
@@ -74,7 +74,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 <p align="center">
   <a href="https://github.com/ERR0R-x-PREDAT0R/Tony-Ser"><img src="https://www.linkpicture.com/q/Tony-Ser.jpg" />
 </p>
-
+</div>
 
 ## Developers
   <div align="center">
