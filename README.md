@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 </p>
 
 
-----
+----------
 
 ----------
 
@@ -75,7 +75,8 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
   <a href="https://github.com/ERR0R-x-PREDAT0R/Tony-Ser"><img src="https://www.linkpicture.com/q/Tony-Ser.jpg" />
 </p>
 </div>
-
+----------
+----------
 ## Developers
   <div align="center">
     
@@ -85,7 +86,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 Base, Bug Fixes, Modules  | 
   </div>
     
-
+----------
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
