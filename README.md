@@ -1,4 +1,4 @@
-# Tony Wa Bot
+# Tony Ser Wa Bot
 
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="200" height="200"/>
@@ -33,7 +33,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Tony-Ser) 
 ----------
 
 
@@ -54,7 +54,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/ERR0R-x-PREDAT0R/Tony-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/ERR0R-x-PREDAT0R/Tony-Ser"><img src="https://www.linkpicture.com/q/Tony-Ser.jpg" />
 </p>
 
 ## 📢 Guide
