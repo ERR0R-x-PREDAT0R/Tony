@@ -67,8 +67,14 @@ Click WA logo to Join Support Group 👇
 
 ## Developers
   <div align="center">
-  
+    
+  [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=275)](https://github.com/CYBER-DASHAMOOLAN) |  
+----|
+[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
+Base, Bug Fixes, Modules  | 
+  </div>
+    
 
 
-                                  
-  </div
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
