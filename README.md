@@ -9,11 +9,9 @@
         />
     </a>
 </p>
-<div
+
 ##𝐓𝐎𝐍𝐘 𝐒𝐄𝐑 𝐖𝐀 𝐁𝐎𝐓
 
-
-</div>
 
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="200" height="200"/>
