@@ -9,8 +9,8 @@
         />
     </a>
 </p>
-
-#❝Tony Ser Wa Bot❞
+<div
+#Tony Ser Wa Bot
 
 </div>
 
@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 ----------
 
 
-
+<div
 
 ## `SCAN QR`
 
@@ -66,7 +66,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
-
+</div>
 ## `CHANGE DYNO`
 
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
