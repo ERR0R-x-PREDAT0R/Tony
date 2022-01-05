@@ -1,7 +1,7 @@
 # Tony Wa Bot
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="350" height="350"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="300" height="300"/>
 
 <p align="center"> 
   <a href="https://wa.me/919383491460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
