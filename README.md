@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 ----------
 
 
-<div
+<div align="center">
 
 ## `SCAN QR`
 
