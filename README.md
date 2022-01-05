@@ -10,7 +10,8 @@
     </a>
 </p>
 <div
-#Tony Ser Wa Bot
+##"𝐓𝐎𝐍𝐘 𝐒𝐄𝐑 𝐖𝐀 𝐁𝐎𝐓"
+
 
 </div>
 
@@ -75,8 +76,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
   <a href="https://github.com/ERR0R-x-PREDAT0R/Tony-Ser"><img src="https://www.linkpicture.com/q/Tony-Ser.jpg" />
 </p>
 </div>
-----------
-----------
+
 ## Developers
   <div align="center">
     
