@@ -14,7 +14,7 @@ const defaultMenu = {
 🔸 Github: [ RELEASING SOON ]
 
 
-     〘 *WIZARD SER* 〙
+     〘 *TONY SER* 〙
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
   body: '├ %cmd',
@@ -168,8 +168,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     if (teks == '404') {
       return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
         "listMessage": {
-          "title": `ᴡɪᴢᴀʀᴅ sᴇʀ  ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ,
-┌─────❲ *ᴡɪᴢᴀʀᴅ sᴇʀ* ❳
+          "title": `ᴛᴏɴʏ sᴇʀ  ʙʏ ᴀʟɪɴsʜᴀɴ,
+┌─────❲ *ᴛᴏɴʏ sᴇʀ* ❳
 ┊
 └─────────────────❋ཻུ۪۪⸙
         
@@ -184,9 +184,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┊☞ 🧭 *TIME* : ${time},
 ┊☞ 💫 *WEEK* : ${week},
 ┊☞ ✅ *DATE* : ${date},
-┊☞ 💝 *OWNER* : ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ
+┊☞ 💝 *OWNER* : ᴀʟɪɴsʜᴀɴ
 ┊☞ 🖌️ *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
-┊☞ ☮️ *BOT NAME* : ᴡɪᴢᴀʀᴅ sᴇʀ
+┊☞ ☮️ *BOT NAME* : ᴛᴏɴʏ sᴇʀ
 └─────────────────⸙ \n\ ______`
           
            .trim(),
@@ -197,8 +197,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `WIZARD SER`,
-                  "description": "Wizard ser git link",
+                  "title": `TONY SER`,
+                  "description": "Tony Ser git link",
                   "rowId": ".git"
                 }, {
                   "title": "💻Game",
@@ -232,7 +232,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Group Admin Commands",
                   "rowId": ".? admin"
                 }, {
-                  "title": "Grup",
+                  "title": "Group",
                   "description": "Group Related Commands",
                   "rowId": ".? grup"
                 }, {
