@@ -1,5 +1,5 @@
 {
-  "name": "Tony-Ser",
+  "name": "Wizard-Ser",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ERR0R-x-PREDAT0R/Tony-Ser.git"
+    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "ERR0R-x-PREDAT0R",
+  "author": "Ajmal-Achu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ERR0R-x-PREDAT0R/Tony-Ser/issues"
+    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
   },
-  "homepage": "https://github.com/ERR0R-x-PREDAT0R/Tony-Ser",
+  "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
